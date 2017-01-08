@@ -1,2 +1,2 @@
 # project
-something u need
+ GIT 常用指令
